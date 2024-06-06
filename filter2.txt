@@ -1,0 +1,4 @@
+||https://www.apple.com^
+||apple.com^$client=192.168.1.130/132
+||https://apple.com^$important
+||apple.com^$important
